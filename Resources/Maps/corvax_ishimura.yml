@@ -72963,13 +72963,6 @@ entities:
     - type: Transform
       pos: -8.504817,13.575826
       parent: 2
-- proto: ClothingNeckCloakAce
-  entities:
-  - uid: 18837
-    components:
-    - type: Transform
-      pos: -34.519188,25.479324
-      parent: 2
 - proto: ClothingNeckCloakAdmin
   entities:
   - uid: 16954
@@ -72978,13 +72971,6 @@ entities:
       name: плащ лизарда
     - type: Transform
       pos: -130.50995,23.450384
-      parent: 2
-- proto: ClothingNeckCloakAro
-  entities:
-  - uid: 17492
-    components:
-    - type: Transform
-      pos: -75.593666,21.535728
       parent: 2
 - proto: ClothingNeckCloakBi
   entities:
@@ -72999,13 +72985,6 @@ entities:
     components:
     - type: Transform
       pos: -49.524063,30.571947
-      parent: 2
-- proto: ClothingNeckCloakEnby
-  entities:
-  - uid: 18550
-    components:
-    - type: Transform
-      pos: -32.582123,33.335163
       parent: 2
 - proto: ClothingNeckCloakGay
   entities:
@@ -73028,20 +73007,6 @@ entities:
     - type: Transform
       pos: -8.461792,32.446552
       parent: 2
-- proto: ClothingNeckCloakIntersex
-  entities:
-  - uid: 17493
-    components:
-    - type: Transform
-      pos: -46.493187,25.578531
-      parent: 2
-- proto: ClothingNeckCloakLesbian
-  entities:
-  - uid: 16838
-    components:
-    - type: Transform
-      pos: -25.483047,33.553913
-      parent: 2
 - proto: ClothingNeckCloakMiner
   entities:
   - uid: 7800
@@ -73055,13 +73020,6 @@ entities:
     components:
     - type: Transform
       pos: -23.404922,29.538288
-      parent: 2
-- proto: ClothingNeckCloakPan
-  entities:
-  - uid: 16971
-    components:
-    - type: Transform
-      pos: 32.597904,7.4234333
       parent: 2
 - proto: ClothingNeckCloakTrans
   entities:

@@ -83555,13 +83555,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: -91.22215,-57.404427
       parent: 2
-- proto: LGBTQHandyFlag
-  entities:
-  - uid: 9445
-    components:
-    - type: Transform
-      pos: -75.08926,-8.128118
-      parent: 2
 - proto: Lighter
   entities:
   - uid: 9446

@@ -21,13 +21,6 @@
         - ClothingNeckCloakVoid
         - ClothingNeckCloakGoliathCloak
         - ClothingNeckCloakAce
-        - ClothingNeckCloakAro
-        - ClothingNeckCloakBi
-        - ClothingNeckCloakIntersex
-        - ClothingNeckCloakLesbian
-        - ClothingNeckCloakGay
-        - ClothingNeckCloakEnby
-        - ClothingNeckCloakPan
         - ToySkeleton
         - Basketball
         - Football
@@ -36,15 +29,6 @@
         - PonderingOrb
         - Skub
         - DrinkMugDog
-        - ClothingNeckLGBTPin
-        - ClothingNeckAromanticPin
-        - ClothingNeckAsexualPin
-        - ClothingNeckBisexualPin
-        - ClothingNeckIntersexPin
-        - ClothingNeckLesbianPin
-        - ClothingNeckNonBinaryPin
-        - ClothingNeckPansexualPin
-        - ClothingNeckTransPin
         # Corvax-Pins-Start
         - ClothingNeckUSSPPin
         - ClothingNeckDonkPin
